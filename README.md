@@ -14,7 +14,7 @@ Trabalhando com tecnologia e resolução de problemas técnicos em TI desde 2009
 
 :triangular_flag_on_post:Sou graduando de Relações Internacionais, o que me permite conhecer o mercado e diversas áreas de negócios 
 
-:triangular_flag_on_post:Comecei agora, em 2021 a me especializar em programação backend com Java e Javascript (Node.js :purple_heart:)
+:triangular_flag_on_post:Comecei agora, em 2021 a me especializar em programação backend com Java
 
 
 
